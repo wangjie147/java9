@@ -57,8 +57,8 @@ public class TryTest {
     //jdk8中，下划线的测试
     @Test
     public void testTry12(){
-         String  _hello = "北京";
-         System.out.println(_hello);
+        /* String  _hello = "北京";*/
+        /* System.out.println(_hello);*/
         /* String  _ = "北京";
          System.out.println(_);  jdk8以前是允许的，但是jdk9是不允许的*/
     }
